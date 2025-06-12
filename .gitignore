@@ -1,0 +1,31 @@
+# Ignore Python virtual environment
+.venv/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# VSCode and other IDE settings
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Environment files (if using)
+.env
+.env.*
+
+# System files
+Thumbs.db
