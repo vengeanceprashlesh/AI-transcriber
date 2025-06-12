@@ -1,4 +1,5 @@
 streamlit
-openai-whisper @ git+https://github.com/openai/whisper.git
-ffmpeg-python
+openai-whisper
+transformers
 torch
+torchaudio
